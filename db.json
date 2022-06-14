@@ -148,9 +148,9 @@
             "imageSrc":""
          },
          {
-            "templateId":"template-process-68ce4ca3-6b6c-496a-9af6-8e7d5af299f3",
-            "processId":"process-68ce4ca3-6b6c-496a-9af6-8e7d5af299f3",
-            "cloneOrg":"testfp",
+            "templateId":"template-process-b77bcb0b-ee8e-49a6-a5e0-e7e78ea93431",
+            "processId":"process-b77bcb0b-ee8e-49a6-a5e0-e7e78ea93431",
+            "cloneOrg":"demomaster",
             "label":"Add New Customer by Forms",
             "author":"Nivetha V",
             "authorCompanyName":"Fieldproxy",
@@ -176,6 +176,102 @@
                  "label":"New Customer",
                  "description":"This Form Lets you add customer through the portal"
                }
+            ],
+            "imageSrc":""
+         },
+         {
+            "templateId":"template-process-8099fb42-3e19-45b4-8719-67f1d3914ac1",
+            "processId":"process-8099fb42-3e19-45b4-8719-67f1d3914ac1",
+            "cloneOrg":"demomaster",
+            "label":"Add New Customer by Task",
+            "author":"Nivetha V",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales Ops",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the agent where they can add the add new customer through the Mobile Application using the Task ",
+            "sheets":[
+               {
+                  "label":"New Customers",
+                  "description":"This sheet contains the list of new Customers"
+               }
+            ],
+            "tasks":[
+               {
+                 "label":"New Customer",
+                 "description":"This Task Lets you add customer through the Mobile Application"
+               }
+            ],
+            "forms":[
+               
+            ],
+            "imageSrc":""
+         },
+         {
+            "templateId":"template-process-9b88b89d-a5de-4319-9f3f-b9f1abdfd03e",
+            "processId":"process-9b88b89d-a5de-4319-9f3f-b9f1abdfd03e",
+            "cloneOrg":"demomaster",
+            "label":"Customer Visit",
+            "author":"Nivetha V",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales Ops",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the agent where they can add the Visit Details ",
+            "sheets":[
+               {
+                  "label":"Customer Visit sheet",
+                  "description":"This sheet contains the Customer Visit Information"
+               },
+              {
+                  "label":"Visit Details",
+                  "description":"This sheet contains the Visit Sheet Information"
+               }
+            ],
+            "tasks":[
+               {
+                 "label":"Check-in",
+                 "description":"This Task Lets you add Check In for a customer"
+               },
+              {
+                 "label":"Check-out",
+                 "description":"This Task Lets you add Check Out for a customer"
+               }
+            ],
+            "forms":[
+               
+            ],
+            "imageSrc":""
+         },
+         {
+            "templateId":"template-process-3f5165c7-d2e6-497a-bea2-79523ef0efba",
+            "processId":"process-3f5165c7-d2e6-497a-bea2-79523ef0efba",
+            "cloneOrg":"demomaster",
+            "label":"Set Visit Plan",
+            "author":"Nivetha V",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales Ops",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the agent where they can add the Visit Plan. ",
+            "sheets":[
+               {
+                  "label":"Customer Visit sheet",
+                  "description":"This sheet contains the Customer Visit Information"
+               },
+              {
+                  "label":"New Customers",
+                  "description":"This sheet contains the Add New Customer"
+               }
+            ],
+            "tasks":[
+               {
+                 "label":"Customer visit plan",
+                 "description":"This Task Lets you add Visit Plan for the day"
+               }
+            ],
+            "forms":[
+               
             ],
             "imageSrc":""
          }
