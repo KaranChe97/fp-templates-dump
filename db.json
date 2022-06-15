@@ -274,6 +274,118 @@
                
             ],
             "imageSrc":""
+         },
+        
+         {
+            "templateId":"template-process-840877d8-94b8-45d9-bff4-4cfba39175b4",
+            "processId":"process-840877d8-94b8-45d9-bff4-4cfba39175b4",
+            "cloneOrg":"demomaster",
+            "label":"Add New Site",
+            "author":"Aadil Sherif",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the manager to site into the system. ",
+            "sheets":[
+               {
+                  "label":"Site Information",
+                  "description":"This sheet contains the Site Information"
+               }
+            ],
+            "tasks":[
+               
+            ],
+            "forms":[
+               {
+                 "label":"Add New Site",
+                 "description":"This Task Lets you add Site for the day"
+               }
+               
+            ],
+            "imageSrc":""
+         },
+         {
+            "templateId":"template-process-de9cb535-bd6e-452b-aa9b-86beb445ff7d",
+            "processId":"process-de9cb535-bd6e-452b-aa9b-86beb445ff7d",
+            "cloneOrg":"demomaster",
+            "label":"Daily Task",
+            "author":"Aadil Sherif",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the manager to site into the system. ",
+            "sheets":[
+               {
+                  "label":"Task Updates",
+                  "description":"This sheet contains the Site Tasks"
+               },
+              {
+                  "label":"Site Visit Sheet",
+                  "description":"This sheet contains the Site Visit Information"
+               }
+            ],
+            "tasks":[
+              {
+                  "label":"Daily Task Updates",
+                  "description":""
+               },
+              {
+                  "label":"Create Task Here",
+                  "description":""
+               }
+               
+            ],
+            "forms":[
+               {
+                 "label":"Add New Site",
+                 "description":"This Task Lets you add Site for the day"
+               }
+               
+            ],
+            "imageSrc":""
+         },
+        {
+            "templateId":"template-process-991eb917-f963-4891-9fe1-1c0707009ecf",
+            "processId":"process-991eb917-f963-4891-9fe1-1c0707009ecf",
+            "cloneOrg":"demomaster",
+            "label":"Daily Task",
+            "author":"Aadil Sherif",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the manager to site into the system. ",
+            "sheets":[
+               {
+                  "label":"Site Attendance",
+                  "description":"This sheet contains the Site Attendance"
+               },
+              {
+                  "label":"Site Information",
+                  "description":"This sheet contains the Site Information"
+               }
+            ],
+            "tasks":[
+              {
+                  "label":"Check In ",
+                  "description":""
+               },
+              {
+                  "label":"Check Out",
+                  "description":""
+               }
+               
+            ],
+            "forms":[
+               {
+                 "label":"Add New Site",
+                 "description":"This Task Lets you add Site for the day"
+               }
+               
+            ],
+            "imageSrc":""
          }
       ]
    }
